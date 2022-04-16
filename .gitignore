@@ -25,5 +25,6 @@ gradlew.bat
 heapdump.*.phd
 javacore.*.txt
 obj/
+packages/
 target/
 xcuserdata
